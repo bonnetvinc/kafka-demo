@@ -1,0 +1,5 @@
+### json
+GET http://localhost:8081/kafka/publish/string/sample
+
+### string
+GET http://localhost:8081/kafka/publish/tata
